@@ -6,22 +6,27 @@
 [[main]]
   name = "Home"
   url = "#about"
-  weight = 10
+  weight = 1
+
+[[main]]
+  name = "CV"
+  url = "/files/Mikael_Rubin_CV.pdf"
+  weight = 2
 
 [[main]]
   name = "Publications"
-  url = "#featured"
-  weight = 20
+  url = "/publication/"
+  weight = 3
 
 [[main]]
   name = "Current Projects"
   url = "#projects"
-  weight = 30
+  weight = 4
 
 [[main]]
   name = "Posts"
   url = "#posts"
-  weight = 40
+  weight = 5
 
 #[[main]]
 #  name = "Contact"
